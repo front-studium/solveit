@@ -12,8 +12,8 @@
 
 solveit은 함께 코딩 테스트 문제를 풀고, 리뷰와 피드백을 통해 실력을 키우는 스터디입니다.
 
-📌 **진행 상황**은 [마일스톤](#)을 참고하세요.
-📌 **전체 로드맵**은 [roadmap](./roadmap.md)을 참고하세요.
+📌 **진행 상황**은 [마일스톤](https://github.com/front-studium/solveit/milestones)을 참고하세요.
+📌 **전체 로드맵**은 [roadmap](https://github.com/orgs/front-studium/projects/1/views/1)을 참고하세요.
 
 - **기간**: 2025.04.03 ~ 2025.05.21 (8주)
   (4.16-5.2 기초 프로젝트 기간 제외 - 4.16, 4.23, 4.30 제외)
