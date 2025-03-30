@@ -1,0 +1,77 @@
+:root {
+  --font-family: "Segoe UI", "Pretendard", sans-serif;
+
+  --color-bg-gradient: linear-gradient(135deg, #fef6e4, #f9e0ff, #e0f7fa);
+  --color-text-main: #333;
+  --color-heading: #ff6f61;
+  --color-body: #555;
+  --color-tagline: #999;
+  --color-box-bg: white;
+  --box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+
+  --padding-box: 3rem 4rem;
+  --border-radius: 2rem;
+  --max-width: 600px;
+}
+
+body {
+  font-family: var(--font-family);
+  background: var(--color-bg-gradient);
+  color: var(--color-text-main);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+.container {
+  background: var(--color-box-bg);
+  padding: var(--padding-box);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  max-width: var(--max-width);
+  animation: bounceFromCorner 0.8s ease-out;
+  transform-origin: left bottom;
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-heading);
+  font-weight: 800;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: var(--color-body);
+}
+
+.tagline {
+  margin-top: 1rem;
+  font-style: italic;
+  color: var(--color-tagline);
+  font-size: 1rem;
+}
+
+@keyframes bounceFromCorner {
+  0% {
+    transform: translate(-100px, 100px) scale(0.5) rotate(-15deg);
+    opacity: 0;
+  }
+  40% {
+    transform: translate(20px, -20px) scale(1.1) rotate(5deg);
+    opacity: 1;
+  }
+  60% {
+    transform: translate(-10px, 10px) scale(0.97) rotate(-3deg);
+  }
+  80% {
+    transform: translate(5px, -5px) scale(1.02) rotate(2deg);
+  }
+  100% {
+    transform: translate(0, 0) scale(1) rotate(0deg);
+  }
+}
