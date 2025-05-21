@@ -11,8 +11,12 @@
 
 ### Related Issues
 
+<!--
 - [관련 이슈 번호, e.g., question #123]
 - 없으면 none
+-->
+
+- none
 
 ### Checklist before creating a PR
 
@@ -22,4 +26,3 @@
 - [ ] Projects에 solveit raodmap을 연동하고 Status를 Done으로 변경했나요?
 - [ ] Milestone에 해당 week을 연동했나요?
 - [ ] Development에 해당 week을 연동했나요?
-
