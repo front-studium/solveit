@@ -1,0 +1,24 @@
+name: Solveit Reminder
+
+on:
+  schedule:
+    - cron: "0 4 * * 3" # 매주 수요일 13:00 (UTC 기준으로 04:00 AM)
+  workflow_dispatch:
+
+jobs:
+  send_message:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check environment variables
+        run: |
+          echo "DISCORD_CHANNEL_ID_SOLVEIT=${{ secrets.DISCORD_CHANNEL_ID_SOLVEIT }}"
+          echo "REMINDER_BOT_TOKEN=${{ secrets.REMINDER_BOT_TOKEN }}"
+
+      - name: Notify PR Due Date
+        run: |
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+          -H "Content-Type: application/json" \
+          -H "Authorization: Bot ${{ secrets.REMINDER_BOT_TOKEN }}" \
+          -d "{\"content\": \"오늘 스터디 있어요~! 오후 4시에 Solveit에서 만나요~! \"}" \
+          https://discord.com/api/v10/channels/${{ secrets.DISCORD_CHANNEL_ID_SOLVEIT }}/messages)
+          echo "Response: $RESPONSE"
