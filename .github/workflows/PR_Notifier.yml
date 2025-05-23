@@ -1,0 +1,21 @@
+name: Notify Discord on PR Created
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send PR info to Discord
+        run: |
+          MESSAGE="**새 PR이 생성됐습니다**\n\n📌 **제목**: ${{ github.event.pull_request.title }}\n🙋‍♀️ **작성자**: ${{ github.event.pull_request.user.login }}\n🔗 [PR 바로가기](${{ github.event.pull_request.html_url }})"
+
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bot ${{ secrets.REMINDER_BOT_TOKEN }}" \
+            -d "{\"content\": \"$MESSAGE\"}" \
+            https://discord.com/api/v10/channels/${{ secrets.DISCORD_CHANNEL_ID_PR }}/messages)
+
+          echo "Discord Response Code: $RESPONSE"
