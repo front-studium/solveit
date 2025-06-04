@@ -9,3 +9,8 @@ function solution(angle) {
         return 4;
     }
 }
+
+// 다른 풀이
+// function solution(angle) {
+//     return [0, 90, 91, 180].filter(x => angle>=x).length;
+// }
