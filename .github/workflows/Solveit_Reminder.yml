@@ -2,7 +2,7 @@ name: Solveit Reminder
 
 on:
   schedule:
-    - cron: "0 0 * * 3" # 매주 수요일 9:00 (KST, UTC+9)
+    - cron: "0 0 * * 4" # 매주 목요일 9:00 (KST, UTC+9)
   workflow_dispatch:
 
 jobs:
