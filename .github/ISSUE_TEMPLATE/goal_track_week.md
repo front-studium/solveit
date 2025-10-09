@@ -2,17 +2,17 @@
 name: "weekly-goal-tracking"
 about: "Use this template for using issues as weekly goal tracking items."
 title: "`Week `"
-labels: "goal"
-assignees: ""
+labels: "goal", "Programmers", 
+assignees: "sgoldenbird"
 ---
 
 ## Goal
 
-**Week**: week1 2025.04.02 ~ 2025.04.09
+**Week**: 2026. THU ~ 2026. WED
 
 **Goal Description**: 2문제 풀기
 
-**Deadline**: 2025.04.15 SAT
+**Deadline**: 2026. SAT
 
 ---
 
