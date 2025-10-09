@@ -1,8 +1,10 @@
 ---
 name: "weekly-goal-tracking"
 about: "Use this template for using issues as weekly goal tracking items."
-title: "`Week `"
-labels: "goal", "Programmers", 
+title: "`Week`"
+labels:   
+  - goal
+  - Programmers
 assignees: "sgoldenbird"
 ---
 
