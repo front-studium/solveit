@@ -18,9 +18,13 @@ assignees: ""
 
 ## Problems List
 
+**week0** 2026. THU - 2026. WED
+
+- 
+
 **week1** 2026. THU - 2026. WED
 
-- Problem 1
+-
 - 
 
 **week2** 2026. THU - 2026. WED
@@ -56,9 +60,7 @@ assignees: ""
 
 - 
 
-**week10** 2026. THU - 2026. WED
 
-- 
 
 ---
 
@@ -68,6 +70,7 @@ assignees: ""
 
 - **시은**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
   - [ ] Complete `Week 3`
@@ -77,10 +80,11 @@ assignees: ""
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
   - [ ] Complete `Week 9`
-  - [ ] Complete `Week 10`
+ 
 
 - **수진**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
   - [ ] Complete `Week 3`
@@ -90,10 +94,10 @@ assignees: ""
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
   - [ ] Complete `Week 9`
-  - [ ] Complete `Week 10`
 
 - **유진**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
   - [ ] Complete `Week 3`
@@ -103,10 +107,10 @@ assignees: ""
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
   - [ ] Complete `Week 9`
-  - [ ] Complete `Week 10`
 
 - **인성**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
   - [ ] Complete `Week 3`
@@ -116,7 +120,6 @@ assignees: ""
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
   - [ ] Complete `Week 9`
-  - [ ] Complete `Week 10`
 
 ---
 
