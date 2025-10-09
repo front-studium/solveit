@@ -1,9 +1,12 @@
 ---
 name: "goal-tracking"
 about: "Use this template for using issues as goal tracking items."
-title: "`Week ~ Week ` Goal"
-labels: "goal"
-assignees: ""
+title: "`Week ~ Week` Programmers level 1"
+labels: 
+- goals
+- Programmers
+- level 1
+assignees: "sgoldenbird"
 ---
 
 ## Goal
