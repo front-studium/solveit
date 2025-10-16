@@ -1,5 +1,3 @@
-// 개미 군단
-
 function solution(hp) {
   const general = 5;
   const soldier = 3;
