@@ -1,3 +1,5 @@
+// 옷가게 할인 받기
+
 function solution(price) {
   if (price >= 500000) {
     return Math.floor(price * 0.8);
