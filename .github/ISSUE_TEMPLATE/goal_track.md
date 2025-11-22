@@ -1,32 +1,69 @@
 ---
 name: "goal-tracking"
 about: "Use this template for using issues as goal tracking items."
-title: "`Week ~ Week ` Goal"
-labels: "goal"
-assignees: ""
+title: "`Week ~ Week` Programmers level 1"
+labels: 
+- goal
+- Programmers
+- level 1
+assignees: "sgoldenbird"
 ---
 
 ## Goal
 
-**Week**: 8주(기초 프로젝트 기간 3주 제외)
+**Week**: 10주
 
-**Goal Description**: 매주 프로그래머스 레벨 0 2 문제씩 풀기
+**Goal Description**: 매주 프로그래머스 2 문제씩 풀기
 
-**Deadline**: 2025.05.17 SAT
+**Deadline**: 2026.0. SAT
 
 ---
 
 ## Problems List
 
-**week1** 2025.04.02-2025.04.8
+**week0** 2026. THU - 2026. WED
 
-- Problem 1
-- Problem 2
+- 
 
-**week2** 2025.04.09-2025.04.15
+**week1** 2026. THU - 2026. WED
 
-- Problem 3
-- Problem 4
+-
+- 
+
+**week2** 2026. THU - 2026. WED
+
+- 
+- 
+
+**week3** 2026. THU - 2026. WED
+
+- 
+
+**week4** 2026. THU - 2026. WED
+
+- 
+
+**week5** 2026. THU - 2026. WED
+
+- 
+
+**week6** 2026. THU - 2026. WED
+
+- 
+
+**week7** 2026. THU - 2026. WED
+
+- 
+
+**week8** 2026. THU - 2026. WED
+
+- 
+
+**week9** 2026. THU - 2026. WED
+
+- 
+
+
 
 ---
 
@@ -36,47 +73,56 @@ assignees: ""
 
 - **시은**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
-  - [x] ~~Complete `Week 3`~~
-  - [x] ~~Complete `Week 4`~~
-  - [x] ~~Complete `Week 5`~~
+  - [ ] Complete `Week 3`
+  - [ ] Complete `Week 4`
+  - [ ] Complete `Week 5`
   - [ ] Complete `Week 6`
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
+  - [ ] Complete `Week 9`
+ 
 
 - **수진**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
-  - [x] ~~Complete `Week 3`~~
-  - [x] ~~Complete `Week 4`~~
-  - [x] ~~Complete `Week 5`~~
+  - [ ] Complete `Week 3`
+  - [ ] Complete `Week 4`
+  - [ ] Complete `Week 5`
   - [ ] Complete `Week 6`
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
+  - [ ] Complete `Week 9`
 
 - **유진**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
-  - [x] ~~Complete `Week 3`~~
-  - [x] ~~Complete `Week 4`~~
-  - [x] ~~Complete `Week 5`~~
+  - [ ] Complete `Week 3`
+  - [ ] Complete `Week 4`
+  - [ ] Complete `Week 5`
   - [ ] Complete `Week 6`
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
+  - [ ] Complete `Week 9`
 
 - **인성**:
 
+  - [ ] Complete `Week 0`
   - [ ] Complete `Week 1`
   - [ ] Complete `Week 2`
-  - [x] ~~Complete `Week 3`~~
-  - [x] ~~Complete `Week 4`~~
-  - [x] ~~Complete `Week 5`~~
+  - [ ] Complete `Week 3`
+  - [ ] Complete `Week 4`
+  - [ ] Complete `Week 5`
   - [ ] Complete `Week 6`
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
+  - [ ] Complete `Week 9`
 
 ---
 

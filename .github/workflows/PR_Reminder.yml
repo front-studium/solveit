@@ -2,7 +2,7 @@ name: PR Reminder
 
 on:
   schedule:
-    - cron: "0 0 * * 5" # 매주 금요일 9:00 (UTC 기준으로 토 00:00)
+    - cron: "0 0 * * 5" # 매주 금요일 9:00 (UTC 기준으로 금 00:00)
   workflow_dispatch:
 
 jobs:
