@@ -4,10 +4,11 @@
 
 ### Progress
 
-이번주 푼 문제에 체크해주세요.
+Check off the problems you solved this week.
 
 - [x] 문자열 출력하기
-- [x] a와 b출력하기
+- [x]
+- [x]
 
 ### Related Issues
 
@@ -20,9 +21,9 @@
 
 ### Checklist before creating a PR
 
-- [ ] PR 제목은 `week1` 형식으로 작성했나요?
-- [ ] Assignees에 PR 생성자 본인을 지정했나요?
-- [ ] 출처, 난이도, 카테고리 등의 label을 모두 추가했나요?
-- [ ] PR은 Projects를 **연동하지 마세요**
-- [ ] Milestone에 해당 week을 연동했나요?
-- [ ] Development에 해당 week을 연동했나요?
+- [ ] Is the PR title following the `week1` format?
+- [ ] Have you assigned yourself as the Assignee?
+- [ ] Have all relevant labels (source, difficulty, category, etc.) been added?
+- [ ] Do **NOT** link the PR to Projects.
+- [ ] Is the appropriate week linked as a Milestone?
+- [ ] Is the appropriate week linked under Development?

@@ -1,19 +1,20 @@
 ---
 name: "goal-tracking"
 about: "Use this template for using issues as goal tracking items."
-title: "`Week ~ Week` Programmers level 1"
-labels: 
-- goal
-- Programmers
-- level 1
+title: "`Week ~ Week` Programmers level0 / level1"
+labels:
+  - goal
+  - Programmers
+  - level 0
+  - level 1
 assignees: "sgoldenbird"
 ---
 
 ## Goal
 
-**Week**: 10주
+**Week**: 10weeks
 
-**Goal Description**: 매주 프로그래머스 2 문제씩 풀기
+**Goal Description**: Solve 3 coding challenges from Programmers Level 0 and Level 1 every week.
 
 **Deadline**: 2026.0. SAT
 
@@ -23,49 +24,27 @@ assignees: "sgoldenbird"
 
 **week0** 2026. THU - 2026. WED
 
-- 
-
-**week1** 2026. THU - 2026. WED
+- **week1** 2026. THU - 2026. WED
 
 -
-- 
+- **week2** 2026. THU - 2026. WED
 
-**week2** 2026. THU - 2026. WED
+-
+- **week3** 2026. THU - 2026. WED
 
-- 
-- 
+- **week4** 2026. THU - 2026. WED
 
-**week3** 2026. THU - 2026. WED
+- **week5** 2026. THU - 2026. WED
 
-- 
+- **week6** 2026. THU - 2026. WED
 
-**week4** 2026. THU - 2026. WED
+- **week7** 2026. THU - 2026. WED
 
-- 
+- **week8** 2026. THU - 2026. WED
 
-**week5** 2026. THU - 2026. WED
+- **week9** 2026. THU - 2026. WED
 
-- 
-
-**week6** 2026. THU - 2026. WED
-
-- 
-
-**week7** 2026. THU - 2026. WED
-
-- 
-
-**week8** 2026. THU - 2026. WED
-
-- 
-
-**week9** 2026. THU - 2026. WED
-
-- 
-
-
-
----
+- ***
 
 ## Progress
 
@@ -83,7 +62,6 @@ assignees: "sgoldenbird"
   - [ ] Complete `Week 7`
   - [ ] Complete `Week 8`
   - [ ] Complete `Week 9`
- 
 
 - **수진**:
 
@@ -128,8 +106,8 @@ assignees: "sgoldenbird"
 
 ## Checklist
 
-- [ ] 모든 참여자가 모든 주차별 문제를 완료했습니다.
-- [ ] 관련 이슈들을 모두 해결했습니다.
-- [ ] 각 참여자의 PR이 해당 Week에 연결되어 있습니다.
-- [ ] 참여자별 This Week's To-Do List가 주차별로 갱신되었습니다.
-- [ ] 마일스톤이 이 목표와 연동되어 있습니다.
+- [ ] All participants have completed all weekly problems.
+- [ ] All related issues have been resolved.
+- [ ] Each participant’s PR is linked to the corresponding week.
+- [ ] Each participant’s “This Week’s To-Do List” has been updated weekly.
+- [ ] The milestone is linked to this goal.
