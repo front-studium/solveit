@@ -12,11 +12,11 @@ assignees: "sgoldenbird"
 
 ## Goal
 
-**Week**: 2026. THU ~ 2026. WED
+**Week**: 2026. MON ~ 2026. SUN
 
 **Goal Description**: Solve 3 coding challenges from Programmers Level 0 and Level 1.
 
-**Deadline**: 2026. SAT
+**Deadline**: 2026. SUN
 
 ---
 

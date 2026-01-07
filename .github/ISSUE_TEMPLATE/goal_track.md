@@ -12,39 +12,27 @@ assignees: "sgoldenbird"
 
 ## Goal
 
-**Week**: 10weeks
+**Week**: 10weeks (2026. ~ 2026. )
 
 **Goal Description**: Solve 3 coding challenges from Programmers Level 0 and Level 1 every week.
 
-**Deadline**: 2026.0. SAT
+**Deadline**: 2026.0. SUN
 
 ---
 
 ## Problems List
 
-**week0** 2026. THU - 2026. WED
+**week0** 2026. MON - 2026. SUN
 
-- **week1** 2026. THU - 2026. WED
-
--
-- **week2** 2026. THU - 2026. WED
-
--
-- **week3** 2026. THU - 2026. WED
-
-- **week4** 2026. THU - 2026. WED
-
-- **week5** 2026. THU - 2026. WED
-
-- **week6** 2026. THU - 2026. WED
-
-- **week7** 2026. THU - 2026. WED
-
-- **week8** 2026. THU - 2026. WED
-
-- **week9** 2026. THU - 2026. WED
-
-- ***
+**week1** 2026. MON - 2026. SUN
+**week2** 2026. MON - 2026. SUN
+**week3** 2026. MON - 2026. SUN
+**week4** 2026. MON - 2026. SUN
+**week5** 2026. MON - 2026. SUN
+**week6** 2026. MON - 2026. SUN
+**week7** 2026. MON - 2026. SUN
+**week8** 2026. MON - 2026. SUN
+**week9** 2026. MON - 2026. SUN
 
 ## Progress
 
