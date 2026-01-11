@@ -1,5 +1,4 @@
 function solution(x) {
-  var answer = true;
   const num = String(x).split("");
   let num2 = 0;
 
@@ -11,7 +10,6 @@ function solution(x) {
   } else {
     return false;
   }
-  return answer;
 }
 
 // 다른 풀이
